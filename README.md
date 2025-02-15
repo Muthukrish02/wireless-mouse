@@ -45,7 +45,7 @@ This project transforms an **ESP8266 + ADXL345 Accelerometer** into a wireless m
 ## 📽️ Demo Video
 
 
-
+<https://github.com/Muthukrish02/wireless-mouse/blob/main/020com5%20(1).mp4>
 
 
 
