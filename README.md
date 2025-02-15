@@ -45,7 +45,7 @@ This project transforms an **ESP8266 + ADXL345 Accelerometer** into a wireless m
 ## 📽️ Demo Video
 
 
-Uploading 020com5 (1).mp4…
+
 
 
 
