@@ -43,7 +43,11 @@ This project transforms an **ESP8266 + ADXL345 Accelerometer** into a wireless m
 ✅ **Minimal latency (~5ms)**
 
 ## 📽️ Demo Video
-_A demo video link can be added here once recorded._
+
+
+Uploading 020com5 (1).mp4…
+
+
 
 ## 📜 License
 This project is **open-source** under the MIT License.
